@@ -11,6 +11,6 @@ A static clone of Amazon's homepage built using only HTML and CSS. This project 
 
 This project was built to practice HTML structure and CSS layout techniques by recreating a real-world e-commerce interface.
 
-## 🛠 Technologies Used
+##  Technologies Used
 - HTML5
 - CSS3 
